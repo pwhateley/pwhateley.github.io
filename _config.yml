@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+plugins:
+  - not-pure-poole
 title: Parker Whateley
 description: testing to upload port here
